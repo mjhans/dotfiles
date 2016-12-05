@@ -1,4 +1,5 @@
 # Mathias’s dotfiles
+# Thanks Mathias!! (mjhans)
 
 ![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
 
